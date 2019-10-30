@@ -1,0 +1,9 @@
+project.ext{
+     compileSdkVersion = 29
+     buildToolsVersion = "29.0.0"
+     applicationId = "com.ccb.ccvideoplayer"
+     minSdkVersion = 15
+     targetSdkVersion = 29
+     versionCode = 1
+     versionName = "1.0"
+}
